@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Running Shoes",
+    "oldprice": 89.99,
+    "newprice": 74.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzj8zS5nIXS27xQAcP2UGjKjECMRblAjccmw&usqp=CAU",
+    "description": "High-performance running shoes with advanced cushioning technology."
+  },
+  {
+    "name": "Casual Sneakers",
+    "oldprice": 59.99,
+    "newprice": 49.99,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2hvZXMlMjBzaG9wfGVufDB8fDB8fHww",
+    "description": "Stylish and comfortable sneakers for everyday wear."
+  },
+  {
+    "name": "Basketball Shoes",
+    "oldprice": 109.99,
+    "newprice": 94.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2hvZXMlMjBzaG9wfGVufDB8fDB8fHww",
+    "description": "Durable basketball shoes designed for optimal court performance."
+  },
+  {
+    "name": "Formal Leather Shoes",
+    "oldprice": 79.99,
+    "newprice": 64.99,
+    "image": "https://plus.unsplash.com/premium_photo-1673367751222-eacaf3f4998d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHNob2VzJTIwc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Elegant leather shoes suitable for formal occasions."
+  },
+  {
+    "name": "Hiking Boots",
+    "oldprice": 129.99,
+    "newprice": 109.99,
+    "image": "https://images.unsplash.com/photo-1539874202413-c1f47b33169f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHNob2VzJTIwc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Sturdy hiking boots with waterproof and breathable features."
+  },
+  {
+    "name": "Athletic Training Shoes",
+    "oldprice": 79.99,
+    "newprice": 69.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HQggtOA5OpE5XBEMoYhz8Pq5c-xYxjcW_5FM7G8ICUMtItcW8vNB55kR_g&s",
+    "description": "Versatile training shoes for various athletic activities."
+  },
+  {
+    "name": "Winter Boots",
+    "oldprice": 99.99,
+    "newprice": 84.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKq8mRGDIKwNk0-KDL8nv79Wl5gJ03oDJ2Jq14wshiJS7TqA5PCGGZLmyWg&s",
+    "description": "Insulated winter boots to keep your feet warm in cold weather."
+  },
+  {
+    "name": "Canvas Slip-Ons",
+    "oldprice": 44.99,
+    "newprice": 39.99,
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2023/09/running-shoes-2048px-5960.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+    "description": "Easy-to-wear canvas slip-on shoes for a casual look."
+  },
+  {
+    "name": "Trail Running Shoes",
+    "oldprice": 94.99,
+    "newprice": 79.99,
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2023/09/running-shoes-2048px-5946.jpg?auto=webp&quality=75&width=1024",
+    "description": "Trail-specific running shoes with enhanced traction for outdoor trails."
+  },
+  {
+    "name": "Classic Loafers",
+    "oldprice": 69.99,
+    "newprice": 59.99,
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/comfy-shoes-nike-new-lead.jpg?c=original",
+    "description": "Timeless loafers crafted for both style and comfort."
+  },
+  {
+    "name": "Skateboarding Shoes",
+    "oldprice": 54.99,
+    "newprice": 49.99,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/altra-superior-5-10865-1654600827.jpg?crop=0.917xw:0.916xh;0.0595xw,0.0842xh&resize=980:*",
+    "description": "Durable and grippy shoes designed for skateboarding enthusiasts."
+  },
+  {
+    "name": "Sandals",
+    "oldprice": 34.99,
+    "newprice": 29.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylOLQANGyWL5PpD6PRN4wxlLNYIJjc7a-L22qAoQCiLsABjkEstuVTb67Wpjhi4mNUEc&usqp=CAU",
+    "description": "Light and comfortable sandals for warm-weather activities."
+  },
+  {
+    "name": "Fashion Sneakers",
+    "oldprice": 79.99,
+    "newprice": 69.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANdtbn:ANd9GcSJSNZ0Hq5eds3vN8Sc-k0LuFqkPcZox7ZyiQ&usqp=CAU",
+    "description": "Trendy sneakers with a modern design for a stylish look."
+  },
+  {
+    "name": "Work Boots",
+    "oldprice": 109.99,
+    "newprice": 94.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxWT_0WPNpVo3U3mKeasmgeuZ5eINFS7Vzw&usqp=CAU",
+    "description": "Sturdy work boots with safety features for demanding jobs."
+  },
+  {
+    "name": "Moccasin Slippers",
+    "oldprice": 29.99,
+    "newprice": 24.99,
+    "image": "https://d2ob0iztsaxy5v.cloudfront.net/holdingimages/hp-slot2-nike-running-wk49-.jpg",
+    "description": "Cozy moccasin slippers for indoor comfort and relaxation."
+  },
+  {
+    "name": "Cross Training Shoes",
+    "oldprice": 74.99,
+    "newprice": 64.99,
+    "image": "https://img.freepik.com/free-photo/one-black-sneaker-shoe-isolated-white_93675-131266.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703894400&semt=ais",
+    "description": "Versatile shoes suitable for various cross-training activities."
+  },
+  {
+    "name": "Espadrilles",
+    "oldprice": 49.99,
+    "newprice": 39.99,
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+    "description": "Light and breathable espadrilles for a laid-back summer style."
+  },
+  {
+    "name": "Golf Shoes",
+    "oldprice": 89.99,
+    "newprice": 79.99,
+    "image": "https://media.istockphoto.com/id/1419090099/photo/white-sneaker-with-a-diversity-of-colors-shoe-on-a-white-gradient-background-yellow-pink-blue.jpg?b=1&s=612x612&w=0&k=20&c=aWImXIIb0DzLRoGXJiLO5h03OC8b3K7fjnkXhxSZ4KU=",
+    "description": "Golf shoes with traction and stability features for the golf course."
+  },
+  {
+    "name": "High Heel Boots",
+    "oldprice": 129.99,
+    "newprice": 109.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXviRqjGTX0nh5HR7CEoT0exWgP6mAKfq0iuAwLsuuH0CNGiaBsKZAeORp13jJ6FsG7m8&usqp=CAUg",
+    "description": "Fashionable high heel boots for a stylish and elevated look."
+  }
+]

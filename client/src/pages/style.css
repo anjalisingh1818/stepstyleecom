@@ -1,0 +1,149 @@
+.p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+.p img {
+  height: 200px;
+}
+.Banner {
+  display: flex;
+  background: linear-gradient(270deg, rgb(238, 46, 59),yellow, rgb(86, 231, 239));
+  height: 90vh;
+
+}
+.Banner-txt {
+  flex: 1;
+}
+.Banner img {
+  flex: 1;
+  width: 300px;
+  height: 450px;
+  margin-top: 80px;
+}
+.Banner h3 {
+  font-size: 38px;
+  color: rgb(0, 0, 0);
+  letter-spacing: 25px;
+  position: absolute;
+  top: 300px;
+  left: 10px;
+  font-family: cursive;
+  font-weight: 600;
+}
+.Banner h1 {
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 408px;
+  left: 11px;
+  font-style: cursive;
+  letter-spacing: 20px;
+  line-height: 20px;
+  font-size: 50px;
+}
+.Banner h2 {
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 404px;
+  left: 14px;
+  font-style: cursive;
+  letter-spacing: 20px;
+  line-height: 20px;
+  font-size: 50px;
+  font-weight: 700;
+}
+.Banner-p {
+  border-radius: 50%;
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  position: absolute;
+  left: 530px;
+  top: 280px;
+  font-weight: 400;
+  font-size: 14px;
+}
+.cir,.cir-2{
+    background: transparent;
+    border-radius: 50%;
+    border:10px solid rgb(238, 46, 59);
+    height: 700px;
+    width:500px;
+    position: absolute;
+    top:20px;
+    right:65px;
+    rotate: 70deg;
+   
+}
+.cir-2{
+    border:5px solid yellow;
+}
+
+.initialbody{
+  background: url("https://content.fortune.com/wp-content/uploads/2015/12/409661.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.cont{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ background:rgba(0, 0, 0, 0.5);
+
+  margin:100px 300px;
+  width:700px;
+  height:50vh;
+  padding: auto 100px;
+}
+.cont input{
+  display: block;
+  gap:8px;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  padding: 5px;
+  margin: 10px auto;
+  border-radius: 15px;
+}
+
+.cont h1{
+  color: rgb(255, 255, 255);
+}
+.cont button{
+  font-weight: 900;
+  border: none;
+  width: 100%;
+  background-color: aliceblue;
+  color: black;
+  font-size: 20px;
+}
+.detail-card{
+  margin: 20px;
+  display: flex;
+  align-items: center;
+}
+.detail-img{
+  flex:1;
+}
+.detail-img img{
+  width:90%
+}
+.detail-img-sm{
+ position: absolute;
+ width:15%;
+margin: 8px;
+}
+.detail-img-sm img{
+  margin: 2px;
+  border: 0.5px solid white;
+}
+.sizes{
+  display: inline;
+  flex-direction: column;
+}
